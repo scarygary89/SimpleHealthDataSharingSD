@@ -1,1 +1,1 @@
-# SimpleHealthDataSharingSD
+# Jupyter Notebook for *From Causal Loop Diagrams to System Dynamics Models in a Data-rich Ecosystem* Chapter in *Data Science for Global Health* Workshop
